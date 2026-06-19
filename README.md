@@ -119,16 +119,6 @@ public class SaiNath {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhulipallasainath143-art&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
