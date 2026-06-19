@@ -119,18 +119,6 @@ public class SaiNath {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dhulipallasainath143-art/dhulipallasainath143-art/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ Snake animation auto-generates via GitHub Actions — see setup note below</sub>
-
-</div>
-
-<br/>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
